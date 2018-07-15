@@ -8,10 +8,10 @@
 > * 在对应的Activity里写好进程 来发送请求 见代码里的MainActivity
 > * 不要忘记在Manifest文件里添加好权限：<uses-permission android:name="android.permission.INTERNET"/>
 
-![添加FastJSON 和 okhttp的库到 Gradle](.pic/1.png)
-![根据对应的JSON字段创建对应的类 写好 Getter 和 Setter的方法](.pic/2.png)
-![根据对应的JSON字段创建对应的类 写好 Getter 和 Setter的方法](.pic/3.png)
-![在对应的Activity里写好进程 来发送请求 见代码里的MainActivity](.pic/4.png)
+![添加FastJSON 和 okhttp的库到 Gradle](./pic/1.png)
+![根据对应的JSON字段创建对应的类 写好 Getter 和 Setter的方法](./pic/2.png)
+![根据对应的JSON字段创建对应的类 写好 Getter 和 Setter的方法](./pic/3.png)
+![在对应的Activity里写好进程 来发送请求 见代码里的MainActivity](./pic/4.png)
 
 ### 1. FastJson 序列化一个对象成JSON字符串
 
